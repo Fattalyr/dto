@@ -1,0 +1,4 @@
+export enum USERS_EVENTS {
+  USER_GET_USER = 'user_get_user',
+  USER_EDIT_ADDRESSES = 'USER_EDIT_ADDRESSES',
+}
